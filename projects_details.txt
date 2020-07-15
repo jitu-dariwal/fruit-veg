@@ -1,0 +1,618 @@
+=========================================================
+	Login details
+=========================================================
+		Local IP : 192.168.5.109
+		
+		DS forum:
+		URL : https://forum.dotsquares.com/
+		user name : jituDariwal
+		password : dots@123
+		
+		Remote Details:
+			
+			Ultraviewer
+			
+				Your Id : 30124218
+				Temp Password : 8399
+				Custom Password : dots@123
+
+		Mail Id Details
+			
+			Url : http://webmail.dotsquares.com/webmaillogout.cgi
+			User Name :  jitendra.dariwal@dotsquares.com
+			Password : TPxHrjUO3Z)X
+		
+		DSP Details:
+			Url : https://projects.dotsquares.com/
+			username : jituDariwal
+			password : dots@123
+
+		PMS Details : 
+			Url : https://pms.dotsquares.com/Account/LogIn
+			username : jitendra.dariwal@dotsquares.com
+			pass : 123
+
+		EMS Details : 
+			Url : https://ems.dotsquares.com/
+			username : jitendra.dariwal@dotsquares.com
+			pass : dots@123
+		
+		Skype And Mail Id Details
+
+			User Name :  jitendra.dariwal@dotsquares.com
+			Password : TPxHrjUO3Z)X
+		
+		Git lab Details
+
+			User Name :  jitendra-dariwal
+			Email :  jitendra.dariwal@dotsquares.com
+			Password : dots@123
+		
+		Vonage sms api :
+			Url : https://dashboard.nexmo.com/
+			Email : jitendra.dariwal@dotsquares.com
+			password : Dots@123
+			Api Key : 192d0502
+			API secret : 0dySQa3utxa67cfU
+			Signature Secret : YGi1W1vTT0ejd53LylOqqOP7GBpuhoBCilhaviCEyXQWPbVeYS
+		
+		
+		Plaid Payment API :
+
+			Url : https://dashboard.plaid.com/
+			UserName : jitendra.dariwal@dotsquares.com
+			Password : Dots@1234
+
+
+		Strip
+
+			UserName : jitendra.dariwal@dotsquares.com
+			Password : Uw%SGG2hAQ_V&Ls
+
+		
+		Department 	Email Id
+		Networking 	tech@dotsquares.com
+		Accounts 	accounts@dotsquares.com
+		HR 	        hr@dotsquares.com
+		Housekeeping 	hk@dotsquares.com
+
+		================================
+			EMS Details
+		================================
+			
+			Url : https://ems.dotsquares.com/ 
+			UserName : jitendra.dariwal@dotsquares.com
+			Password : dots@123
+			
+		================================
+			EMS Details
+		================================
+
+		================================
+			PMS Details
+		================================
+			
+			Url : https://pms.dotsquares.com/Account/LogIn
+			UserName : jitendra.dariwal@dotsquares.com
+			Password : 123
+			
+		================================
+			PMS Details
+		================================
+
+=========================================================
+	End Login details
+=========================================================
+
+
+=========================================================
+	Smartwfm Project details
+=========================================================		
+		
+		=========================================================
+			Test Seerver (for internal testing)
+		=========================================================
+			Domain URL : http://smartwfmtest.projectstatus.co.uk
+			Site-URL : http://smartwfmtest.projectstatus.co.uk/login
+			Username: smartwfm@gmail.com
+			Password: 1111
+			
+			FTP:
+				Host : 192.168.4.28
+				User : smartwfmtest
+				Password : nafX6qc3qJh7yhjK
+				
+			Database:
+			
+				http://192.168.4.28/phpmyadmin
+				db User - smartwfmtest
+				db name - smartwfmtest
+				db pass - nafX6qc3qJh7yhjK
+		=========================================================
+			End of Test Seerver
+		=========================================================
+			
+
+		=========================================================
+			Staging Test Seerver (for client)
+		=========================================================
+			Domain URL : http://smartwfmtest.projectstatus.co.uk
+			Site-URL : http://smartwfm.projectstatus.co.uk/login
+			Username: smartwfm@gmail.com
+			Password: 1111
+			
+			FTP:
+				Host : 192.168.4.28
+				User : smartwfm
+				Password : T1Dwk6AMPAw2wvZC
+				
+			Database:
+			
+				http://192.168.4.28/phpmyadmin
+				db User - smartwfm
+				db name - smartwfm
+				db pass - T1Dwk6AMPAw2wvZC
+		=========================================================
+			End of Staging Test Seerver (for client)
+		=========================================================
+
+
+		=========================================================
+			Live Seerver
+		=========================================================
+			Domain URL : https://apitome.smartwfm.com/login
+			Site-URL : https://apitome.smartwfm.com/login
+			Username: smartwfm@gmail.com
+			Password: jarrod@smartwfm896
+
+			Setup force redirect from http to https.
+			
+			cPanel Details :
+				https://13.238.78.168:2083
+				UserName : apitmsmartwfm
+				Password : TW=Nxzhwc10p
+
+			FTP Details :
+				FTP Host : 13.238.78.168
+				UserName : apitmsmartwfm
+				Password : TW=Nxzhwc10p
+
+			DB Details :
+				User: apitmsma_user
+				DB name: apitmsma_db
+				Password: Tkh&Y1Ap1Cn
+		=========================================================
+			Live Seerver
+		=========================================================
+
+
+		=========================================================
+			AWS Server git Repositry  Details
+		=========================================================
+			
+			Repository Name : smartwfm
+			Git URL : https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/smartwfm
+
+			Developer Name : Prashant Sharma
+			Email id : prashant@dotsquares.com
+			Username : prashant@dotsquares.com-at-616582107653
+			Password : BvtE9gsgl68Z72DhxeB0YX+KUQreOrO6pQIc0y8j+SI=
+			
+			Steps to create new repository and permission :
+			Region : Mumbai
+			Steps : Create a CodeCommit Repository
+			Create : Policy with same developer name
+			Create developer with above policy access
+			
+			
+		=========================================================
+			AWS Server git Repositry  Details
+		=========================================================
+		
+=========================================================
+	End Smartwfm Project details
+=========================================================
+
+=========================================================
+	Fruit and veg Project details
+=========================================================
+
+		Virtual host
+		local.fruitandveg.co.uk
+
+		Categories Images
+		\\192.168.8.29\html\Fruit + Veg Website\product-images
+
+
+		\\192.168.5.165\fruit_new_2019\templates\fruitfortheoffice_2011
+		admin / Trilok@123
+
+		http://192.168.5.165/fruit_new_2019/login.php
+
+
+		https://medium.com/@dennissmink/laravel-google-recaptcha-a0e2d8b2d03b
+
+		=========================================================
+			Paypal details (for internal testing)
+		=========================================================
+				Developer account
+				
+				jitendra.dariwal@dotsquares.com
+				dots@123
+				
+				Sandbox account : sb-jqsh9697393@business.example.com
+				Client ID : AQklJAoBs5JcYuPGGEncu8pJ7HH8YTT8RDgvBJRjOReg8t38Vi3U9ZDNwg4pH1Uueci3S2IAEnDp8Unm
+				Secret : EMURlmh1DimGTZZfRqARU2C8mquqrDI_8DonGPizmn9urlQRt7a4w-7nGP2r7FRADkuk4vIApwOV9jF7
+				AccessToken : access_token$sandbox$sds9mtyv2ysyvff4$98b7c1b6cc2c172b6fbcddce4be78209
+				
+				
+				Email ID: sb-jqsh9697393@business.example.com
+				System Generated Password: cZs!2.jJ
+				
+				
+				Username : businesskamla@paypal.com
+				Password : kamla@123
+
+		=========================================================
+			End Paypal details
+		=========================================================
+
+		=========================================================
+			Test Seerver (for internal testing)
+		=========================================================
+
+			HTML Details
+				Path : \\192.168.8.29\html\Fruit + Veg Website\xhtml
+				New Path : \\192.168.8.29\html\Fruit + Veg Website\new-fruit-veg
+
+			Demo details
+				URL: http://fruitandveg.projectstatus.co.uk 
+
+			Admin details
+				Url : http://fruitandveg.projectstatus.co.uk/admin
+				User Name/ Password : daniel@fruitfortheoffice.co.uk / Daniel 
+
+			DataBase Details
+				Url : http://192.168.4.28/phpmyadmin/
+				db name - fruitandveg
+				db user - fruitandveg
+				db pass - yVmPmpLJmrqjJzYv
+
+			FTP:-
+				ftp host - 192.168.4.28
+				UserName : fruitandveg
+				Password : yVmPmpLJmrqjJzYv
+				
+		=========================================================
+			End of Test Seerver
+		=========================================================
+
+
+		=========================================================
+			Demo Seerver (for internal testing)
+		=========================================================
+			Demo details
+				URL: http://fruitvegnew.projectstatus.in
+
+			Admin details
+				Url : http://fruitandveg.projectstatus.co.uk/admin
+				User Name/ Password : daniel@fruitfortheoffice.co.uk / Daniel 
+
+			DataBase Details
+				Url : http://192.168.4.28/phpmyadmin
+				db name - fruitvegnew
+				db user - fruitvegnew
+				db pass - hSFg5ouOdW88g
+
+			FTP:-
+				ftp host - 192.168.4.28
+				UserName : fruitvegnew
+				Password : hSFg5ouOdW88g
+				
+		=========================================================
+			End of Test Seerver
+		=========================================================
+
+				
+		=========================================================
+			Git Details
+		=========================================================
+			
+			Url : http://192.168.8.29:7990/projects/FV/repos/fruiteandveg_new/browse
+			Email : jitendra.dariwal@dotsquares.com
+			UserName : jitendra
+			Password : jitendra@55
+			
+			Repo Name : fruiteandveg_new
+		=========================================================
+			End Git Details
+		=========================================================
+
+
+		=========================================================
+			Pay 360 Details
+		=========================================================
+			Doc : https://www.pay360.com/sites/default/files/2018-05/gateway_freedom-ima_v_3-0_0.pdf
+			
+			Test card : http://docs.pay360.com/getting-started/test-card-numbers/
+			
+			pay360 account
+			
+			Mukesh sir details : 
+			
+				Url : https://portal.mite.pay360.com/miportal/#/login
+				UserName : mukesh.s@dotsquares.com
+				Password : Mukesh@9977
+				
+				API Username: XV7TVP3HO5HMBE7KNKA2RHBBDQ
+
+				API Password: TcI0sF84+0lpGtCLtC7GcA==
+
+				CardLock ID: 5WHxbKXKRpm_VV3ZqhR92g
+
+				Installations:
+
+				5305656 Hosted Cashier
+
+				5305657 Cashier API
+				
+			Jitendra dariwal details : 
+				
+				Url : https://portal.mite.pay360.com/miportal/#/login
+				UserName : jitendra.dariwal@dotsquares.com
+				Password : dots@123
+				
+				API Username: 2CZ7MMPICFGU5KXJN76H7OKLGI
+
+				API Password: htKp6y1+j3vTyw3pb97cwQ==
+
+				CardLock ID: qIofl7FaQmSEMtFO2RsjtQ
+
+				Installations:
+
+				5305890 Hosted Cashier
+
+				5305891 Cashier API
+		=========================================================
+			End Pay 360 details
+		=========================================================
+
+				
+		=========================================================
+			Users Details for login
+		=========================================================
+			
+			UserName : dannyox@hotmail.com
+			Password : 1234567
+			
+			UserName : mukesh.s111@dotsquares.com
+			Password : mukesh997
+			
+			UserName : testcompany12@mailinator.com
+			Password : 1234567
+			
+			UserName : testcompany@mailinator.com
+			Password : 1234567
+			
+		=========================================================
+			End Users Details for login
+		=========================================================
+				
+		=========================================================
+			fruitandveg Details for login
+		=========================================================
+			
+			Demo details
+			URL:  http://fruitandveg.projectstatus.co.uk                                              
+			user login details - mukesh.s@dotsquares.com / 123456
+
+			http://192.168.4.28/phpmyadmin/
+
+			db name - fruitandveg
+			db user - fruitandveg
+			db pass - yVmPmpLJmrqjJzYv
+
+
+			FTP:-
+			ftp host - 192.168.4.28
+			UserName : fruitandveg
+			Password : yVmPmpLJmrqjJzYv
+			
+		=========================================================
+			End fruitandveg Details for login
+		=========================================================
+
+=========================================================
+	End Fruit and veg Project details
+=========================================================
+
+=========================================================
+	Unlocking Project details
+=========================================================
+		New server details
+		Unlocking Smart Ionos Details:
+
+		Admin area: https://77.68.31.152:8443
+		User:root
+		Password : 0<%51g8V1=
+		
+		
+		
+		Admin 
+		URL:https://www.unlockingsmart.co.uk/dashboard
+
+		username: fastrack23 
+		password: GBds1349*
+
+		https://www.youtube.com/watch?v=dOPBo0UyH1Y&feature=youtu.be
+
+
+
+		URL: https://www.godaddy.com/
+
+		username: 100855005
+		password: GBdsss1349*
+
+
+		Live database
+
+		'db'=>array(
+			'connectionString' => 'mysql:host=localhost;dbname=unlockin_unlocking',
+			'emulatePrepare' => true,
+			'username' => 'unlockin_unlock',
+			'password' => '1*a?9ng97gQQ',
+			'charset' => 'utf8',
+		),
+		
+		
+		Domain name : staging.unlockingsmart.co.uk
+
+		Ftp host : 77.68.31.152
+		protocol:sftp
+		port:22
+		ftp user : unlockingsmart
+
+		Password : Jxx0i27?
+
+
+		DB host : localhost 
+		Db user: unlocking-user
+		DB name : unlockingsmart_dbnew
+		Password: 6Wacp!77
+
+=========================================================
+	End Unlocking Project details
+=========================================================
+
+
+=========================================================
+	Mosco Project details
+=========================================================
+
+		Dir Path : \\192.168.4.211\htdocs\cordant_new_1
+		username : admin
+		password : vijay@123
+
+		Production details :
+
+			url : http://production.cordantoh.co.uk.local.dv/
+
+
+		Manager
+		testmanager@mailinator.com / Cordant@123#
+
+		URL : http://client1.cordantoh.co.uk.local.dv/user/login
+
+		Super Admin Details : superadmin@mail.com / Cordant@123#
+
+		Test Employee Details : testppqemp@mailinator.com / Cordant@123#
+
+		Ohp User Details : testohp2019@mailinator.com / Dots@123
+
+		Virtual Hosts : 192.168.4.211	cordantoh.co.uk.local.dv
+						192.168.4.211	client1.cordantoh.co.uk.local.dv
+						
+		http://192.168.4.211/phpmyadmin
+						
+		bitbucket Details :
+
+		user: hemantbansal
+		pass: hemant@55
+
+		Trello Details :
+		-------------
+		https://trello.com/
+		vijay.nair@dotsquares.com/vijay@123
+
+		Task url : https://trello.com/c/nXvXwbWH/41-pentest-add-missing-security-headers
+
+
+		Security meta tag : https://www.sitepoint.com/content-security-policy-getting-started/
+
+=========================================================
+	End Mosco Project details
+=========================================================
+
+
+=========================================================
+	End PocketBroker Project details
+=========================================================
+
+		website : www.pocketbroker.com
+
+		Non-authoritative answer
+		Name:    www.pocketbroke
+		Address:  34.204.216.180
+
+		->And A core backoffice management site
+
+		Website :  Office.pocketbroker.com
+
+		API : https://bridgedataoutput.com/login
+
+			ID todd@nexusbeyond.com
+
+			PW Pocket123
+
+		AWS
+
+			anis@adomee.com
+
+			poketbroker123
+
+
+		Server Token : b9786de875e959dbf66128e54cb710f1
+
+		1. Get test API data, return responce in json format
+
+			https://api.bridgedataoutput.com/api/v2/test/listings?access_token=b9786de875e959dbf66128e54cb710f1
+
+		2. Metadata API , return responce in XMl format
+
+				https://api.bridgedataoutput.com/api/v2/OData/streeteasy/$metadata?access_token=b9786de875e959dbf66128e54cb710f1
+				
+		3. Example request: return all datasets approved for an application
+			https://api.bridgedataoutput.com/api/v2/OData/DataSystem?access_token=b9786de875e959dbf66128e54cb710f1
+			
+		4. Example: return data relating to a specific listing
+			https://api.bridgedataoutput.com/api/v2/OData/test_sd/Properties('ListingKey')?access_token=b9786de875e959dbf66128e54cb710f1
+			
+		5. Example: Skip the first 10 listings of the Test dataset
+			https://api.bridgedataoutput.com/api/v2/OData/streeteasy/Properties?access_token=b9786de875e959dbf66128e54cb710f1&$skip=10
+			
+		6. Example: Only return the LivingArea field
+			https://api.bridgedataoutput.com/api/v2/OData/streeteasy/Properties?access_token=b9786de875e959dbf66128e54cb710f1&$select=LivingArea
+			
+		7. Example: Do not return the Media object
+			https://api.bridgedataoutput.com/api/v2/OData/streeteasy/Properties?access_token=b9786de875e959dbf66128e54cb710f1&$unselect=Media
+			
+			
+			https://api.bridgedataoutput.com/api/v2/streeteasy/listings/maps?access_token=b9786de875e959dbf66128e54cb710f1&limit=10
+
+=========================================================
+	End PocketBroker Project details
+=========================================================
+
+
+=========================================================
+	Sarah Cottier Gallery Project details
+=========================================================
+		https://vip.ventraip.com.au
+		Username: ab@barberism.com
+		Password: Vio11barB
+
+		http://sarahcottiergallery.com/
+		http://sarahcottiergallery.com/admin/
+		Username: admin
+		Password: rubarb
+
+=========================================================
+	End Sarah Cottier Gallery Project details
+=========================================================
+
+
+Details:
+
+https://providers.wikisiha.com/doctor/profile
+Email: jitendra.dariwal@dotsquares.com
+Pass : dots@123

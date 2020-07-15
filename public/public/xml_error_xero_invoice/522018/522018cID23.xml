@@ -1,0 +1,79 @@
+<Invoices>
+          <Invoice>
+            <Type>ACCREC</Type>
+                <Contact>
+              <ContactNumber>23</ContactNumber>
+              <Name>Dot squares</Name>
+              <ContactStatus>ACTIVE</ContactStatus>
+                  <TaxNumber></TaxNumber>
+              <EmailAddress>accte@y.com</EmailAddress> 
+              <FirstName>mukesh</FirstName>
+              <LastName>sharma</LastName>
+              <DefaultCurrency>GBP</DefaultCurrency>
+              <Addresses>
+                <Address>
+                  <AddressType>STREET</AddressType>
+                  <AttentionTo>A 123, A-block</AttentionTo>
+                  <AddressLine1>A 123, A-block</AddressLine1>
+                  <AddressLine2>JHALANA DOONGRI</AddressLine2>
+                  <AddressLine3></AddressLine3>
+                  <AddressLine4></AddressLine4>
+                  <City>JAIPUR</City>
+                  <Region>Cambridgeshire</Region>
+                  <PostalCode>302004</PostalCode>
+                  <Country>United Kingdom</Country>
+                </Address>  
+                <Address>
+                  <AddressType>POBOX</AddressType>
+                  <AttentionTo></AttentionTo>
+                  <AddressLine1></AddressLine1>
+                  <AddressLine2></AddressLine2>
+                  <AddressLine3></AddressLine3>
+                  <AddressLine4></AddressLine4>
+                  <City></City>
+                  <Region></Region>
+                  <PostalCode></PostalCode>
+                  <Country>United Kingdom</Country>
+                </Address>		
+              </Addresses>
+              <Phones>
+                <Phone>
+                  <PhoneType>DEFAULT</PhoneType>
+                  <PhoneNumber>019878765645</PhoneNumber>          
+                </Phone>        
+                <Phone>
+                  <PhoneType>FAX</PhoneType>
+                  <PhoneNumber>3543643</PhoneNumber>         
+                </Phone>        
+              </Phones>
+              <ContactPersons>
+                  <ContactPerson>
+                      <FirstName>mukesh</FirstName>
+                      <LastName></LastName>
+                      <EmailAddress></EmailAddress>
+                      <IncludeInEmails>true</IncludeInEmails>
+                  </ContactPerson>
+              </ContactPersons>
+            </Contact>    
+            <Date></Date>
+            <DueDate></DueDate>
+            <InvoiceNumber>522018cID23</InvoiceNumber>
+            <Reference>Po Number- fruitandveg-522018cID23</Reference>
+            <CurrencyCode>GBP</CurrencyCode>
+            <Status>DRAFT</Status>   
+            <SubTotal><![CDATA[90.00]]></SubTotal>
+            <TotalTax>0</TotalTax>
+            <Total><![CDATA[90.00]]></Total>    
+            <LineItems>
+              <LineItem>
+                <Description><![CDATA[monthly-invoice]]></Description>
+                <Quantity>1</Quantity>
+                <UnitAmount><![CDATA[90.00]]></UnitAmount>
+                <TaxType>OUTPUT</TaxType>
+                <TaxAmount>0</TaxAmount>
+                <LineAmount><![CDATA[90.00]]></LineAmount>
+                <AccountCode>200</AccountCode>        
+              </LineItem>      
+            </LineItems>
+          </Invoice>
+        </Invoices>

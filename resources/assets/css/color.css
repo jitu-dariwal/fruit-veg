@@ -1,0 +1,195 @@
+/* Scss Document */
+a {
+  color: #651d5a; }
+
+body {
+  color: #4a4a4a; }
+
+.call-details .call-number {
+  color: #449037; }
+
+.account-link li a {
+  color: #4a4a4a; }
+
+.site-btn:hover {
+  background-color: #3d1237;
+  color: #fff; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: #651d5a; }
+
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #651d5a; }
+
+#custom-search-input .search-query {
+  border-color: #651d5a; }
+
+.product-listing #custom-search-input .search-query {
+  border-color: #449037; }
+
+#custom-search-input button {
+  color: #651d5a; }
+
+.business-postcode button {
+  color: #651d5a; }
+
+ul.account-link li a:hover {
+  color: #651d5a; }
+
+.site-info-bar {
+  border-top: solid 1px #651d5a;
+  border-bottom: 1px solid #651d5a; }
+
+.site-info-bar .border-green {
+  border-color: #651d5a !important; }
+
+.site-info-inner span {
+  color: #651d5a; }
+
+.card-body-outer {
+  border-top: solid 1px #651d5a; }
+
+.btn-brownish {
+  background-color: #651d5a;
+  border-color: #651d5a; }
+
+.btn-brownish:hover {
+  background-color: #511748;
+  border-color: #511748;
+  color: #fff; }
+
+.left-heading {
+  background-color: rgba(101, 29, 90, 0.3); }
+
+.custom-accordion > .card > .card-header {
+  background-color: rgba(101, 29, 90, 0.1); }
+
+.custom-accordion .inner-accordion .card-header.collapsed {
+  background-color: #fff;
+  color: #4a4a4a; }
+
+.inner-accordion > .card > .card-header {
+  background-color: rgba(101, 29, 90, 0.06);
+  color: #651d5a; }
+
+.inner-accordion > .card > .card-header:hover {
+  color: #651d5a; }
+
+.fruit-list li a.active {
+  color: #651d5a; }
+
+.custom-accordion > .card {
+  border: solid 1px #651d5a; }
+
+.custom-accordion2 .card .card-header {
+  background-color: #dfeebb; }
+
+.custom-accordion2 .card {
+  border: solid 1px #e4f1c6; }
+
+.custom-accordion2 .card .card-header.collapsed {
+  background-color: #f9fcf1; }
+
+.custom-accordion3 .card {
+  border: solid 1px #a3cd39; }
+
+.custom-accordion > .card:first-of-type {
+  border-bottom: 1px solid #651d5a; }
+
+.custom-accordion3 .card .card-header {
+  background-color: #eefcc8;
+  color: #651d5a; }
+
+.custom-accordion3 .card .card-header.active {
+  background-color: #651d5a;
+  color: #fff; }
+
+.accordion .card-header:after {
+  color: #4a4a4a; }
+
+.inner-accordion .card-header:after {
+  color: #651d5a; }
+
+.fruit-list li a {
+  color: #4a4a4a; }
+
+.your-order {
+  border: solid 1px #651d5a; }
+
+.zoom:after {
+  color: #651d5a; }
+
+.custom-tab .nav-tabs .nav-link.active {
+  border-bottom-color: #651d5a !important; }
+
+.btn-lightgreen {
+  background-color: #651d5a;
+  border-color: #651d5a;
+  color: #fff; }
+
+.btn-lightgreen:hover {
+  background-color: #511748;
+  border-color: #511748;
+  color: #fff; }
+
+.btn-dark-blue-green {
+  background-color: #651d5a;
+  border-color: #651d5a;
+  color: #fff; }
+
+.btn-dark-blue-green:hover {
+  background-color: #511748;
+  border-color: #511748;
+  color: #fff; }
+
+.review-link:hover {
+  color: #000; }
+
+.delivery-details a {
+  color: #651d5a; }
+
+.delivery-details p small {
+  color: #651d5a; }
+
+.btn-outline-primary {
+  color: #651d5a;
+  border-color: #651d5a; }
+
+.btn-outline-primary:hover {
+  background-color: #651d5a;
+  color: #ffffff;
+  border-color: #651d5a; }
+
+.btn-outline-primary:not(:disabled):not(.disabled):active {
+  background-color: #651d5a;
+  color: #ffffff;
+  border-color: #651d5a; }
+
+.custom-grid .btn-outline-primary {
+  color: #651d5a;
+  border-color: #651d5a; }
+
+.custom-grid .btn-outline-primary:hover {
+  background-color: #651d5a;
+  color: #ffffff; }
+
+.btn-greem {
+  background-color: #651d5a;
+  border-color: #651d5a;
+  color: #fff; }
+
+.btn-greem:hover {
+  background-color: #511748;
+  color: #fff; }
+
+.account-link li:first-child a {
+  color: #e4a256; }
+
+.account-link li:first-child a:hover {
+  color: #e09640; }
+
+#custom-search-input2 button {
+  color: #651d5a; }
+
+#custom-search-input3 button {
+  color: #651d5a; }

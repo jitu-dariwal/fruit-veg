@@ -1,0 +1,104 @@
+/* Scss Document */
+
+$dark-blue-green:#651d5a;
+$black:#4a4a4a;
+$brownish-orange:#cf6c25;
+$light-olive-green:#651d5a;
+$brownish-orange:#651d5a;
+
+$pale-olive:#dfeebb;
+$light-pale-olive:#f9fcf1;
+$mossy-green:#651d5a;
+$gold:#e4a256;
+$new-green:#449037;
+
+a {color:$dark-blue-green;}
+body {color:$black;}
+.call-details .call-number {color:$new-green; }
+.account-link li a {color:$black;}
+
+.site-btn:hover { background-color:darken($dark-blue-green, 10%); color: #fff;}
+
+.navbar-light .navbar-nav .nav-link {color:$dark-blue-green;  }
+.navbar-light .navbar-nav .active > .nav-link {color:$dark-blue-green;}
+
+#custom-search-input .search-query {border-color:$light-olive-green; }
+.product-listing #custom-search-input .search-query {border-color:$new-green; }
+#custom-search-input button {color:$light-olive-green;}
+
+.business-postcode button {color:$mossy-green;}
+
+
+ul.account-link li a:hover {color:$light-olive-green;}
+
+.site-info-bar {border-top:solid 1px $light-olive-green; border-bottom:1px solid $light-olive-green;}
+.site-info-bar .border-green {border-color: $light-olive-green !important;}
+.site-info-inner span {color:$light-olive-green;}
+.card-body-outer {border-top:solid 1px $light-olive-green;}
+
+.btn-brownish       {background-color:$brownish-orange; border-color:$brownish-orange;}
+.btn-brownish:hover {background-color:darken($brownish-orange, 5%); border-color:darken($brownish-orange, 5%); color: #fff; }  
+
+.left-heading {background-color: rgba($dark-blue-green,0.3%);}
+.custom-accordion > .card > .card-header {background-color: rgba($dark-blue-green,0.1%);}
+.custom-accordion .inner-accordion .card-header.collapsed  {  background-color:#fff; color:$black;}
+.inner-accordion > .card > .card-header {background-color: rgba($dark-blue-green,0.06%); color:$dark-blue-green;}
+.inner-accordion > .card > .card-header:hover {color:$dark-blue-green;}
+
+.fruit-list li a.active {color:$dark-blue-green; }
+
+.custom-accordion > .card {border: solid 1px $light-olive-green;}
+
+
+.custom-accordion2 .card  .card-header {background-color:$pale-olive;}
+.custom-accordion2 .card {border: solid 1px #e4f1c6;}
+.custom-accordion2 .card  .card-header.collapsed {background-color:$light-pale-olive; }
+.custom-accordion3 .card {border: solid 1px #a3cd39;}
+
+.custom-accordion > .card:first-of-type {border-bottom: 1px solid $dark-blue-green; }
+
+
+//.custom-accordion3 .card  .card-header {background-color:$dark-blue-green; color: #fff; }
+//.custom-accordion3 .card  .card-header.collapsed {background-color:#eefcc8; color:$dark-blue-green; }
+
+.custom-accordion3 .card  .card-header {background-color:#eefcc8; color:$dark-blue-green;}
+.custom-accordion3 .card  .card-header.active {background-color:$dark-blue-green; color: #fff; }
+
+.accordion .card-header:after {color:$black;}
+.inner-accordion .card-header:after {color:$dark-blue-green;}
+
+
+.fruit-list li a {color:$black;}
+.your-order { border: solid 1px $light-olive-green;}
+.zoom:after {color:$light-olive-green;}
+.custom-tab .nav-tabs .nav-link.active {border-bottom-color:$light-olive-green !important; }
+.btn-lightgreen {background-color:$mossy-green; border-color:$mossy-green; color: #fff;} 
+.btn-lightgreen:hover {background-color:darken($mossy-green, 5%); border-color:darken($mossy-green, 5%); color: #fff; } 
+
+.btn-dark-blue-green {background-color:$dark-blue-green; border-color:$dark-blue-green; color: #fff;}
+.btn-dark-blue-green:hover {background-color:darken($dark-blue-green, 5%); border-color:darken($dark-blue-green, 5%); color: #fff; }
+
+.review-link:hover {color: #000;} 
+
+.delivery-details a {color: $mossy-green;}
+.delivery-details p small {color: $mossy-green;}
+.btn-outline-primary  {color:$dark-blue-green; border-color:$dark-blue-green;}
+.btn-outline-primary:hover {background-color:$dark-blue-green; color:#ffffff; border-color:$dark-blue-green;}
+.btn-outline-primary:not(:disabled):not(.disabled):active {background-color:$dark-blue-green; color:#ffffff; border-color:$dark-blue-green;}
+
+
+
+.custom-grid .btn-outline-primary  {color:$dark-blue-green; border-color:$dark-blue-green;}
+.custom-grid .btn-outline-primary:hover {background-color:$dark-blue-green; color:#ffffff;} 
+
+
+
+.btn-greem{background-color:$mossy-green;border-color:$mossy-green; color: #fff;}
+.btn-greem:hover {background-color:darken($mossy-green, 5%); color: #fff;}
+
+.account-link li:first-child a {color:$gold;}
+.account-link li:first-child a:hover {color:darken($gold, 5%);}
+
+
+#custom-search-input2 button {color:$light-olive-green;}
+#custom-search-input3 button {color:$light-olive-green;}  

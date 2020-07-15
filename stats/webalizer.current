@@ -1,0 +1,156 @@
+# Webalizer V2.23-08 Incremental Data - 10/16/2019 14:44:53
+2019 10 16 14 44 53
+14 14 1 14 3 1 6716791 1 1 0
+1 30 30 16 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+14 14 6716791 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+14 14 6716791 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/logo.png
+1 1 13723728 7864 0 0
+/css/style.min.css
+0 1 13723024 215710 0 0
+/js/moment.js
+0 1 13723488 146860 0 0
+/fonts/fontawesome-webfont.woff2
+0 1 13724096 77160 0 0
+/js/moment-with-locales.js
+0 1 13723600 526471 0 0
+/js/bootstrap.datepicker.min.js
+0 1 13723360 33599 0 0
+/images/banner.jpg
+1 1 13724352 5513573 0 0
+/
+0 1 13722688 10898 1 0
+/css/bootstrap.datepicker.css
+0 1 13722800 22835 0 0
+/js/front.min.js
+0 1 13723248 147308 0 0
+/robots.txt
+0 1 0 26 0 0
+/js/custom.js
+0 1 13723136 7354 0 0
+/favicons/android-icon-192x192.png
+1 1 13723968 6180 0 0
+/favicons/favicon-16x16.png
+1 1 13723840 953 0 0
+# End Of Table - urls
+# -sites- (monthly)
+static-217.56.93.111-tataidc.co.in
+0 14 14 6716791 1 1571237083
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+static-217.56.93.111-tataidc.co.in
+0 14 14 6716791 1 1571237083
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://fruitandveg.projectstatus.co.uk/css/style.min.css
+0 2
+- (Direct Request)
+0 4
+http://fruitandveg.projectstatus.co.uk/
+0 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
+0 14
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
